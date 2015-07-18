@@ -11,7 +11,7 @@
 
 See [document x](link) for the parameters for /start
 
-## Caching rationale
+## Rationale / Reason for existence
 
 * Our mediation will work even when med.heyzap.com is down
 * Allows faster startup
