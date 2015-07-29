@@ -9,7 +9,7 @@
             * IAP disable time, disabled tags, etc.
 
 
-See [document x](link) for the parameters for /start
+The SDK should send the default mediation parameters to /start.
 
 ## Rationale / Reason for existence
 
